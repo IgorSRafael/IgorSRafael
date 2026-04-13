@@ -37,10 +37,10 @@
         <!-- Metroidvania -->
         <td width="300px" valign="top">
             <div style="border: 1px solid #30363d; border-radius: 10px; padding: 15px;">
-                <b> <!-- Título do card -->
+                <p style="font-size: 18px; font-weight: bold;"> <!-- Título do card -->
                     <img src="img/control_icon.png" width="20" style="vertical-align: middle;"/> 
                     Metroidvania
-                </b>
+                </p>
                 <p> <!-- Engine e linguagem usada -->
                     <img alt="Godot" title="Godot Engine" width="30px" src="img/godot_icon.webp"/>
                     <img alt="Python" title="Python" width="30px" src="img/python_icon.png"/>
@@ -57,10 +57,10 @@
         <!-- LabCoMU Game Web -->
         <td width="300px" valign="top">
             <div style="border: 1px solid #30363d; border-radius: 10px; padding: 15px;">
-                <h3> <!-- Título do card -->
+                <p style="font-size: 18px; font-weight: bold;"> <!-- Título do card -->
                     <img src="img/control_icon.png" width="20" style="vertical-align: middle;"/> 
                     LabCoMU Game Web
-                </h3>
+                </p>
                 <p> <!-- inguagens usadas -->
                     <img alt="HTML" title="HTML5" width="30px" src="img/html_icon.png"/>
                     <img alt="CSS" title="CSS" width="30px" src="img/css_icon.png"/>
@@ -78,10 +78,10 @@
         <!-- Filtros em imagens PPM -->
         <td width="300px" valign="top">
             <div style="border: 1px solid #30363d; border-radius: 10px; padding: 15px;">
-                <h3> <!-- Título do card -->
+                <p style="font-size: 18px; font-weight: bold;"> <!-- Título do card -->
                     <img src="img/imagem_icon.png" width="20" style="vertical-align: middle;"/> 
                     Filtros em imagens PPM
-                </h3>
+                </p>
                 <p> <!-- inguagem usada -->
                     <img alt="C++" title="C++" width="30px" src="img/c_plus_plus_icon.png"/>
                 </p> 
