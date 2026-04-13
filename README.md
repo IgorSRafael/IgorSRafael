@@ -32,69 +32,53 @@
 ---
 -->
 <!-- Meus projetos -->
-<!-- Metroidvania -->
-<div style="display: inline-block; vertical-align: top;">
-    <div style="display: flex; flex-direction: column; justify-content: space-between; height: 200px; border: 1px solid #30363d; border-radius: 10px; padding: 15px; width: 250px;">
-        <!-- título -->
-        <div>
-            <h3 style="display: flex; align-items: center; gap: 8px;"> 
-                <img src="img/control_icon.png" width="20"/> Metroidvania
-            </h3>
-            <div style="display: flex; gap: 5px;">
-                <img width="25px" src="img/godot_icon.webp"/>
-                <img width="25px" src="img/python_icon.png"/>
-            </div>
-        </div>
-        <!-- descrição -->
-        <p>game dev</p>
-        <!-- link -->
-        <a href="https://github.com/IgorSRafael/Metroidvania.git" 
-           style="display: flex; align-items: center; gap: 5px;">
-            <img src="img/open_in_new_bar_icon.png" width="20"/> Ver projeto
+<div align="center">
+    <!-- Metroidvania -->
+    <div style="display: inline-block; vertical-align: top; width: 250px; border: 1px solid #30363d; border-radius: 10px; padding: 15px; margin: 10px;">
+        <h3>
+            <img src="img/control_icon.png" width="20" style="vertical-align: middle;"/> 
+            Metroidvania
+        </h3>
+        <p> <!-- engine e linguagem usada -->
+            <img alt="Godot" title="Godot Engine" width="30px" style="padding-right:10px;" src="img/godot_icon.webp"/>
+            <img alt="Python" title="Python" width="30px" style="padding-right:10px;" src="img/python_icon.png"/>
+        </p> <!-- breve descrição do projeto -->
+        <p>Game dev</p>
+        <!-- link para o projeto -->
+        <a href="https://github.com/IgorSRafael/Metroidvania.git">
+            <img src="img/open_in_new_bar_icon.png" width="16"/> Ver projeto
         </a>
     </div>
-</div>
-<!-- LabCoMU game web -->
-<div style="display: inline-block; vertical-align: top;">
-    <div style="display: flex; flex-direction: column; justify-content: space-between; height: 200px; border: 1px solid #30363d; border-radius: 10px; padding: 15px; width: 250px;">
-        <!-- título -->
-        <div>
-            <h3 style="display: flex; align-items: center; gap: 8px;"> 
-                <img src="img/control_icon.png" width="20"/> LabCoMU game web
-            </h3>
-            <div style="display: flex; gap: 5px;">
-                <img width="25px" src="img/html_icon.png"/>
-                <img width="25px" src="img/css_icon.png"/>
-                <img width="25px" src="img/javascript_icon.png"/>
-            </div>
-        </div>
-        <!-- descrição -->
-        <p>game dev</p>
-        <!-- link -->
-        <a href="https://github.com/IgorSRafael/LabCoMU-game-web" 
-           style="display: flex; align-items: center; gap: 5px;">
-            <img src="img/open_in_new_bar_icon.png" width="20"/> Ver projeto
+    <!-- LabCoMU game web -->
+    <div style="display: inline-block; vertical-align: top; width: 250px; border: 1px solid #30363d; border-radius: 10px; padding: 15px; margin: 10px;">  
+        <h3>
+            <img src="img/control_icon.png" width="20" style="vertical-align: middle;"/> 
+            LabCoMU Game Web
+        </h3>
+        <p> <!-- linguagens usadas -->
+            <img alt="HTML" title="HTML5" width="30px" style="padding-right:10px;" src="img/html_icon.png"/>
+            <img alt="CSS" title="CSS" width="30px" style="padding-right:10px;" src="img/css_icon.png"/>
+            <img alt="JavaScript" title="JavaScript" width="30px" style="padding-right:10px;" src="img/javascript_icon.png"/>
+        </p> <!-- breve descrição do projeto -->
+        <p>Game dev</p>
+        <!-- link para o projeto -->
+        <a href="https://github.com/IgorSRafael/LabCoMU-game-web">
+            <img src="img/open_in_new_bar_icon.png" width="16"/> Ver projeto
         </a>
     </div>
-</div>
-<!-- Filtros em imagens PPM -->
-<div style="display: inline-block; vertical-align: top;">
-    <div style="display: flex; flex-direction: column; justify-content: space-between; height: 200px; border: 1px solid #30363d; border-radius: 10px; padding: 15px; width: 250px;">
-        <!-- título -->
-        <div>
-            <h3 style="display: flex; align-items: center; gap: 8px;"> 
-                <img src="img/imagem_icon.png" width="20"/> Filtros em imagens PPM
-            </h3>
-            <div style="display: flex; gap: 5px;">
-                <img width="25px" src="img/c_plus_plus_icon.png"/>
-            </div>
-        </div>
-        <!-- descrição -->
+    <!-- Filtros em imagens PPM -->
+    <div style="display: inline-block; vertical-align: top; width: 250px; border: 1px solid #30363d; border-radius: 10px; padding: 15px; margin: 10px;">   
+        <h3>
+            <img src="img/imagem_icon.png" width="20" style="vertical-align: middle;"/> 
+            Filtros em imagens PPM
+        </h3>
+        <p> <!-- linguagem usada -->
+            <img alt="C++" title="C++" width="30px" style="padding-right:10px;" src="img/c_plus_plus_icon.png"/>
+        </p> <!-- breve descrição do projeto -->
         <p>Processamento e manipulação de imagem PPM</p>
-        <!-- link -->
-        <a href="https://github.com/IgorSRafael/Filtros-em-imagens-PPM" 
-           style="display: flex; align-items: center; gap: 5px;">
-            <img src="img/open_in_new_bar_icon.png" width="20"/> Ver projeto
+        <!-- link para o projeto -->
+        <a href="https://github.com/IgorSRafael/Filtros-em-imagens-PPM">
+        <img src="img/open_in_new_bar_icon.png" width="16"/> Ver projeto
         </a>
     </div>
 </div>
