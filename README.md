@@ -32,56 +32,61 @@
 ---
 -->
 <!-- Meus projetos -->
-<div align="center">
+<table align="center">
+  <tr>
     <!-- Metroidvania -->
-    <div style="display: inline-block; vertical-align: top; width: 250px; border: 1px solid #30363d; border-radius: 10px; padding: 15px; margin: 10px;">
+    <td width="300px" valign="top">
+      <div style="border: 1px solid #30363d; border-radius: 10px; padding: 15px;">
         <h3>
-            <img src="img/control_icon.png" width="20" style="vertical-align: middle;"/> 
-            Metroidvania
+          <img src="img/control_icon.png" width="20" style="vertical-align: middle;"/> 
+          Metroidvania
         </h3>
-        <p> <!-- engine e linguagem usada -->
-            <img alt="Godot" title="Godot Engine" width="30px" style="padding-right:10px;" src="img/godot_icon.webp"/>
-            <img alt="Python" title="Python" width="30px" style="padding-right:10px;" src="img/python_icon.png"/>
-        </p> <!-- breve descrição do projeto -->
+        <p>
+          <img alt="Godot" title="Godot Engine" width="30px" src="img/godot_icon.webp"/>
+          <img alt="Python" title="Python" width="30px" src="img/python_icon.png"/>
+        </p>
         <p>Game dev</p>
-        <!-- link para o projeto -->
         <a href="https://github.com/IgorSRafael/Metroidvania.git">
-            <img src="img/open_in_new_bar_icon.png" width="16"/> Ver projeto
+          <img src="img/open_in_new_bar_icon.png" width="16"/> Ver projeto
         </a>
-    </div>
-    <!-- LabCoMU game web -->
-    <div style="display: inline-block; vertical-align: top; width: 250px; border: 1px solid #30363d; border-radius: 10px; padding: 15px; margin: 10px;">  
+      </div>
+    </td>
+    <!-- LabCoMU Game Web -->
+    <td width="300px" valign="top">
+      <div style="border: 1px solid #30363d; border-radius: 10px; padding: 15px;">
         <h3>
-            <img src="img/control_icon.png" width="20" style="vertical-align: middle;"/> 
-            LabCoMU Game Web
+          <img src="img/control_icon.png" width="20" style="vertical-align: middle;"/> 
+          LabCoMU Game Web
         </h3>
-        <p> <!-- linguagens usadas -->
-            <img alt="HTML" title="HTML5" width="30px" style="padding-right:10px;" src="img/html_icon.png"/>
-            <img alt="CSS" title="CSS" width="30px" style="padding-right:10px;" src="img/css_icon.png"/>
-            <img alt="JavaScript" title="JavaScript" width="30px" style="padding-right:10px;" src="img/javascript_icon.png"/>
-        </p> <!-- breve descrição do projeto -->
+        <p>
+          <img alt="HTML" title="HTML5" width="30px" src="img/html_icon.png"/>
+          <img alt="CSS" title="CSS" width="30px" src="img/css_icon.png"/>
+          <img alt="JavaScript" title="JavaScript" width="30px" src="img/javascript_icon.png"/>
+        </p>
         <p>Game dev</p>
-        <!-- link para o projeto -->
         <a href="https://github.com/IgorSRafael/LabCoMU-game-web">
-            <img src="img/open_in_new_bar_icon.png" width="16"/> Ver projeto
+          <img src="img/open_in_new_bar_icon.png" width="16"/> Ver projeto
         </a>
-    </div>
+      </div>
+    </td>
     <!-- Filtros em imagens PPM -->
-    <div style="display: inline-block; vertical-align: top; width: 250px; border: 1px solid #30363d; border-radius: 10px; padding: 15px; margin: 10px;">   
+    <td width="300px" valign="top">
+      <div style="border: 1px solid #30363d; border-radius: 10px; padding: 15px;">
         <h3>
-            <img src="img/imagem_icon.png" width="20" style="vertical-align: middle;"/> 
-            Filtros em imagens PPM
+          <img src="img/imagem_icon.png" width="20" style="vertical-align: middle;"/> 
+          Filtros em imagens PPM
         </h3>
-        <p> <!-- linguagem usada -->
-            <img alt="C++" title="C++" width="30px" style="padding-right:10px;" src="img/c_plus_plus_icon.png"/>
-        </p> <!-- breve descrição do projeto -->
+        <p>
+          <img alt="C++" title="C++" width="30px" src="img/c_plus_plus_icon.png"/>
+        </p>
         <p>Processamento e manipulação de imagem PPM</p>
-        <!-- link para o projeto -->
         <a href="https://github.com/IgorSRafael/Filtros-em-imagens-PPM">
-        <img src="img/open_in_new_bar_icon.png" width="16"/> Ver projeto
+          <img src="img/open_in_new_bar_icon.png" width="16"/> Ver projeto
         </a>
-    </div>
-</div>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 <!-- Estatistica -->
